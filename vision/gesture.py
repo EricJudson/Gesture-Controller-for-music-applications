@@ -1,19 +1,3 @@
-"""
-=============================================================
-gesture.py
-
-Defines:
-
-1. GestureType Enum
-2. GestureResult Dataclass
-3. Helper Functions
-
-Author:
-    Emmanuel Judson + ChatGPT
-
-=============================================================
-"""
-
 from __future__ import annotations
 
 from dataclasses import dataclass, field
