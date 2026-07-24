@@ -1,0 +1,19 @@
+GestureSpotifyController/
+│
+├── main.py
+├── config.py
+├── requirements.txt
+│
+├── controllers/
+│   ├── spotify_controller.py
+│   └── volume_controller.py
+│
+├── vision/
+│   ├── hand_detector.py
+│   └── gesture_recognition.py
+│
+├── utils/
+│   ├── draw.py
+│   └── math_utils.py
+│
+└── assets/
