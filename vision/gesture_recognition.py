@@ -1,19 +1,3 @@
-"""
-==========================================================
-gesture_recognition.py
-
-Professional Gesture Recognition Engine
-
-Receives:
-    Hand
-
-Returns:
-    GestureResult
-
-Author:
-    Emmanuel Judson + ChatGPT
-==========================================================
-"""
 
 from __future__ import annotations
 
