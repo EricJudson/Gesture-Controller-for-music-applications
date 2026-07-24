@@ -1,23 +1,3 @@
-"""
-=============================================================
-hand_detector.py
-
-Professional Hand Detector
-Author : ChatGPT + Emmanuel Judson
-
-Uses MediaPipe Hands to detect:
-
-• Handedness
-• 21 Landmarks
-• Bounding Box
-• Palm Center
-• Finger States
-• Pinch Distance
-
-Returns Hand objects instead of raw landmark arrays.
-=============================================================
-"""
-
 from __future__ import annotations
 
 import cv2
