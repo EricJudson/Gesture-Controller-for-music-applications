@@ -8,9 +8,6 @@ Defines:
 2. GestureResult Dataclass
 3. Helper Functions
 
-Author:
-    Emmanuel Judson + ChatGPT
-
 =============================================================
 """
 

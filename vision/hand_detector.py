@@ -3,7 +3,6 @@
 hand_detector.py
 
 Professional Hand Detector
-Author : ChatGPT + Emmanuel Judson
 
 Uses MediaPipe Hands to detect:
 
