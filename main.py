@@ -53,6 +53,7 @@ def main():
         success, frame = cap.read()
         if not success:
             break
+        print("Test For GitHub Jenkins")
         if config.FLIP_CAMERA:
             frame = cv2.flip(frame, 1)
         hands = detector.detect(frame)
