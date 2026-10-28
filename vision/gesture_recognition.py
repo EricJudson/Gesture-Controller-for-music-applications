@@ -10,6 +10,8 @@ Receives:
 Returns:
     GestureResult
 
+Author:
+    Emmanuel Judson + ChatGPT
 ==========================================================
 """
 
